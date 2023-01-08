@@ -1,0 +1,19 @@
+.first {
+    background-color: #ffb6c1;
+    font-family: verdana, DejaVu Sans, sans-serif ;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+.second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third {
+    background-color: #8aeb8a;
+    font-size: 24px;
+    font-weight: bold;
+}
